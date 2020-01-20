@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/vlWNW4m9mZ</link>
+  <pubdate>10/25/2019</pubdate>
+  <section>
+    <box>
+      <text>Agence de circuits touristiques
+#Balance Ta Bagnols
+</text>
+      <propa>#544f4f</propa>
+      <propb>#ffffff</propb>
+      <member>
+        <box>
+          <text>Acceuil</text>
+          <propa>#edc74c</propa>
+          <propb>#000000</propb>
+          <propc>Lato</propc>
+          <propd>100%</propd>
+          <member>
+            <box>
+              <text>s'évader</text>
+              <propa>#50c7bf</propa>
+              <member>
+                <box>
+                  <text>Se balader</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+                <box>
+                  <text>Circuler</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+                <box>
+                  <text>S'envoler</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+                <box>
+                  <text>Chevaucher</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+              </member>
+            </box>
+            <box>
+              <text>Se délecter</text>
+              <propa>#50c7bf</propa>
+              <member/>
+            </box>
+            <box>
+              <text>Se prélasser</text>
+              <propa>#50c7bf</propa>
+              <member>
+                <box>
+                  <text>Tiny house</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+                <box>
+                  <text>Cabane perchée</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+                <box>
+                  <text>Yourte</text>
+                  <propa>#e07bb3</propa>
+                  <member/>
+                </box>
+              </member>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Réserver en ligne</text>
+          <propa>#edc74c</propa>
+          <propb>#000000</propb>
+          <propc>Lato</propc>
+          <propd>100%</propd>
+          <member/>
+        </box>
+        <box>
+          <text>Promotions</text>
+          <propa>#edc74c</propa>
+          <member/>
+        </box>
+        <box>
+          <text>Nous contacter</text>
+          <propa>#edc74c</propa>
+          <member/>
+        </box>
+        <box>
+          <text>Nous trouver</text>
+          <propa>#edc74c</propa>
+          <member/>
+        </box>
+        <box>
+          <text>Vos témoignages</text>
+          <propa>#edc74c</propa>
+          <member/>
+        </box>
+        <box>
+          <text>Le blog</text>
+          <propa>#edc74c</propa>
+          <member/>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
