@@ -1,0 +1,3 @@
+Sur ma branche j'ai fait les modifs pour que le menu soit ok (responsive avec affichage "hamburger" su mobile.
+
+J'ai modifier un peu index, fichier CSS et surtout JS.
